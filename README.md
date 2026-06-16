@@ -11,7 +11,11 @@ The website was developed manually using Git, nano, and GitHub. Then deployed us
 -GitHub
 -AWS S3
 ##Features
-
+-Static website hosted on AWS S3
+-Visitor counter built with AWS Lambda
+-DynamoDB database stores visitor counts
+-JavaScript fetches visitor data from a Lambda Function URL
+-Source code managed with Git and GitHub
 -A responsive portfolio layout
 -Navigation bar with section linking
 -Hover effects
