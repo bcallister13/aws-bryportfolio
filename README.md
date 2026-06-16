@@ -4,6 +4,8 @@ This project is a responsive static portfolio website built using HTML and CSS i
 
 The website was developed manually using Git, nano, and GitHub. Then deployed using AWS S3 static website hosting.
 
+To demonstrate cloud and serverless technologies, the site includes a visitor counter powered by AWS Lambda, DynamoDB, and JavaSCript. Each visit triggers a Lambda function that updates the current visitor count from a DynamoDB database.
+
 ## Technologies Used
 
 - HTML
